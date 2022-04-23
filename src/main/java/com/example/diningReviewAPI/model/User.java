@@ -16,7 +16,7 @@ public class User {
     @Id
     @GeneratedValue
     private Long id;
-    private String displayName;
+    private String username;
 
     private String city;
     private String state;

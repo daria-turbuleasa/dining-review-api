@@ -15,7 +15,10 @@ public class Restaurant {
     @GeneratedValue
     private Long id;
     private String name;
-    private String address;
+
+    private String city;
+    private String state;
+    private String zipcode;
     private String phoneNumber;
     private String website;
 

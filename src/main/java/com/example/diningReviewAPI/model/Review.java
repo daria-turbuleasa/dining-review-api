@@ -16,7 +16,7 @@ public class Review {
     private Long id;
 
     private String submittedBy;
-    private Long restaurant_id;
+    private Long restaurantId;
 
     private String peanutScore;
     private String eggScore;
